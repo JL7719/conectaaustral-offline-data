@@ -1,0 +1,66 @@
+{
+  "repository": "JL7719/conectaaustral-offline-data",
+  "tag": "patagonia-search-v1",
+  "files": [
+    {
+      "region_id": "los-lagos",
+      "size_bytes": 19521536,
+      "sha256": "4ac937eff2c5cb24f777bf5bb153420c2008ef63ba03224a03e4246664b44161",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/los-lagos.sqlite"
+    },
+    {
+      "region_id": "palena-norte",
+      "size_bytes": 1335296,
+      "sha256": "360ec23c21518094b225e38177fff3aaf8204dd311750ba39a4bad9b8ae8d1e9",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/palena-norte.sqlite"
+    },
+    {
+      "region_id": "aysen-centro",
+      "size_bytes": 2531328,
+      "sha256": "66e62215e607b1d173295c5a8234d1d1c1467a924a3431c44e9dca766b8bbde8",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/aysen-centro.sqlite"
+    },
+    {
+      "region_id": "aysen-sur",
+      "size_bytes": 409600,
+      "sha256": "4617b9200e1e6dcf70a899f0d61db36b32f0d7f8cda83c6a46ef89da3f2b71ab",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/aysen-sur.sqlite"
+    },
+    {
+      "region_id": "magallanes-norte",
+      "size_bytes": 1105920,
+      "sha256": "b181e82e1aa4bfd89df6489d2048c3866c36a3e0a7269fa31bad66fb877193c2",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/magallanes-norte.sqlite"
+    },
+    {
+      "region_id": "magallanes-sur",
+      "size_bytes": 3813376,
+      "sha256": "4469777dbf6df3e028b538fd78b03123aa912d7c4a05e2c5bec96e586e178a6d",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/magallanes-sur.sqlite"
+    },
+    {
+      "region_id": "tierra-del-fuego",
+      "size_bytes": 3932160,
+      "sha256": "103cc1d876d70349db3aa236cf117860617fb8dc808755069eed6d85fd52a897",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/tierra-del-fuego.sqlite"
+    },
+    {
+      "region_id": "argentina-andes-norte",
+      "size_bytes": 8830976,
+      "sha256": "083c1e5e3439e00b84c7e2975fb0ba0eae0a55c0aee17f70197ac3f2f1a335b4",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/argentina-andes-norte.sqlite"
+    },
+    {
+      "region_id": "argentina-ruta40-centro",
+      "size_bytes": 18591744,
+      "sha256": "91eadbd9fa922dfa58b32af5a12596ad1c9a6f5ad73d9b2dd7750488e68c9beb",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/argentina-ruta40-centro.sqlite"
+    },
+    {
+      "region_id": "argentina-ruta40-sur",
+      "size_bytes": 10600448,
+      "sha256": "b59efdf86aba16cda2c04d3e404cf4c8221536125318e6fb89b34f015b7cd426",
+      "url": "https://github.com/JL7719/conectaaustral-offline-data/releases/download/patagonia-search-v1/argentina-ruta40-sur.sqlite"
+    }
+  ]
+}
